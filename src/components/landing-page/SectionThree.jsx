@@ -14,7 +14,7 @@ export default function SectionThree() {
 				<h1 className='md:text-5xl mb-4 text-white text-3xl font-bold'>
 					Why Invest in LuDoge?{' '}
 				</h1>
-				<p className=' text-white text-xl'>
+				<p className=' text-white text-sm md:text-xl'>
 					If you're looking for a memecoin with significant
 					growth potential, then LuDoge is the perfect
 					choice. With its innovative deflationary

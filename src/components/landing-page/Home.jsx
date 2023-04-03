@@ -3,7 +3,7 @@ import Nav from './Nav'
 
 function Home() {
   return (
-    <div className="homebg bg-cover md:h-screen h-[100dvh]">
+    <div id='home' className="homebg bg-cover md:h-screen h-[100dvh]">
     <Nav/>
     <main className="  flex gap-11 flex-col-reverse md:flex-row items-center justify-center md:justify-between md:px-16 px-6">
       <div className="text-white">

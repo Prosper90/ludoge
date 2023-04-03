@@ -4,9 +4,9 @@ import React from 'react';
 
 function SectionOne() {
 	return (
-		<section className='homebgTwo bg-cover md:flex py-6 pb-10 flex md:flex-row flex-col-reverse h-[100dvh] md:h-screen md:justify-between justify-center items-center px-6 md:px-16'>
+		<section id="about" className='homebgTwo bg-cover md:flex py-6 pb-10 flex md:flex-row flex-col-reverse h-[100dvh] md:h-screen md:justify-between justify-center items-center px-6 md:px-16 text-[12px] md:text-sm'>
 			<div className=''>
-				<p className='md:w-[40vw] text-[#fff] text-xl'>
+				<p className='md:w-[40vw] text-[#fff] text-sm md:text-xl'>
 				<p>ABOUT US</p>
 				<h1 className='md:text-5xl mb-4 text-[#fff] text-3xl font-bold'>
 					WHO WE ARE?

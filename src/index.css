@@ -24,3 +24,10 @@ code {
 .homebgTwo{
   background-image: url("/public/Group 23.jpg");
 }
+
+.sponsors{
+  background-image: url("/public/SPONSORS.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

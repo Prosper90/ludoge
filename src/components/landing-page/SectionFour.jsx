@@ -9,7 +9,7 @@ export default function SectionFour() {
 				<h1 className='md:text-5xl mb-4 text-[#734D08] text-3xl font-bold'>
 					What we Provide
 				</h1>
-				<p className='md:w-[40vw] text-[#734D08] text-xl'>
+				<p className='md:w-[40vw] text-[#734D08] text-sm md:text-xl'>
 					Ludoge token is a deflationary meme token that
 					leverages the power of the BSC. The total supply
 					of LuDoge is 1,000,000,000 tokens, of which 50%

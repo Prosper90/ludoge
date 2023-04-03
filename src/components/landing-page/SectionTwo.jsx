@@ -7,7 +7,7 @@ export default function SectionTwo() {
 				<h1 className='md:text-5xl mb-4 text-[#734D08] text-3xl font-bold'>
 					What is LuDoge?
 				</h1>
-				<p className='md:w-[40vw] text-[#734D08] text-xl'>
+				<p className='md:w-[40vw] text-[#734D08] text-sm md:text-xl'>
 					LuDgoe is a deflationary memecoin built on the BinanceSmart Chain (BSC) that aims to provide its investors with unprecedented growth potential. It boasts a strong community of early adopters who are passionate about the project's vision and potential. 
 				</p>
 			</div>
