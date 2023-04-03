@@ -7,7 +7,7 @@ export default function Nav() {
 	const [nav, setNav] = useState(false);
 
 	return (
-		<nav className={`${nav ? " bg-[#0C0F16] text-white flex flex-col gap-[100px] justify-start items-center fixed top-0 left-0 w-screen pt-[40px] pb-40" : " w-full flex py-4 px-8 justify-between items-center"}`}>
+		<nav className={`${nav ? " bg-[#0C0F16] text-white flex flex-col gap-[100px] z[99999] justify-start items-center fixed top-0 left-0 w-screen pt-[40px] pb-40" : " w-full flex py-4 px-8 justify-between items-center"}`}>
 			 
 			<div className=''>
 				<img src='/logo.svg' alt='ludoge-logo' />
@@ -27,7 +27,7 @@ export default function Nav() {
 				</li>
 				<li>
 				<li>
-					<a className='' href='#tokenomics'>Tokenomics</a>
+					<a className='' href='#Tax'>Tax</a>
 				</li>
 				</li>
 			</ul>
